@@ -1,5 +1,5 @@
 require 'test_helper'
-require 'ember/appkit/rails/resource_override'
+require 'generators/ember/resource_override'
 
 class ResourceOverrideTest < Rails::Generators::TestCase
   include GeneratorTestSupport
